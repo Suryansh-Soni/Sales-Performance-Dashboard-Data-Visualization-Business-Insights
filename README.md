@@ -75,7 +75,7 @@ It helps users quickly analyze key business metrics including **total sales, uni
 ---
 
 ## 📷 Dashboard Preview
-![Sales Dashboard](Sales Performance Dashboard.png)
+![Sales Dashboard](Sales%20Performance%20Dashboard.png)
 ---
  
 ## 🚀 Use Cases
