@@ -75,8 +75,7 @@ It helps users quickly analyze key business metrics including **total sales, uni
 ---
 
 ## 📷 Dashboard Preview
-![DashBoard](image-path)
-
+![Sales Dashboard](dashboard.png)
 ---
  
 ## 🚀 Use Cases
